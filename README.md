@@ -1,4 +1,5 @@
-![Design_sem_nome__1_-removebg-preview](https://user-images.githubusercontent.com/97056856/176075520-383511b5-606d-43e4-a3b2-bfae54d65f95.png)
+![data engineer (1)](https://user-images.githubusercontent.com/97056856/176077383-4555b16d-43ff-4ecc-a005-f4c1dea2b9cb.png)
+
 
 
 <!---
