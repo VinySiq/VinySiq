@@ -1,6 +1,6 @@
 ![data engineer (1)](https://user-images.githubusercontent.com/97056856/176077383-4555b16d-43ff-4ecc-a005-f4c1dea2b9cb.png)
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=VinySiq&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills:
