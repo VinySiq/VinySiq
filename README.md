@@ -1,4 +1,4 @@
-# ![Design sem nome (1)](https://user-images.githubusercontent.com/97056856/176074080-40de1f3c-aec4-4e4a-ab6d-19eb1e620ba2.png)
+# ![Design_sem_nome__1_-removebg-preview](https://user-images.githubusercontent.com/97056856/176075520-383511b5-606d-43e4-a3b2-bfae54d65f95.png)
 
 
 <!---
