@@ -1,8 +1,8 @@
 ![data engineer (1)](https://user-images.githubusercontent.com/97056856/176077383-4555b16d-43ff-4ecc-a005-f4c1dea2b9cb.png)
 
-[![card](https://github-readme-stats.vercel.app/api?username=VinySiq&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=vinisiq&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![VinySiq](https://github-readme-stats.vercel.app/api/top-langs/?username=VinySiq&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![VinySiq](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisiq&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills:
