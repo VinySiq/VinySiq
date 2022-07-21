@@ -1,7 +1,10 @@
+Oi, eu sou o Vinicius!
 
-[![card](https://github-readme-stats.vercel.app/api?username=vinisiq&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![VinySiq](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisiq&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Sou um entusiasta em ciência de dados e cloud computing.
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=vinisiq&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![VinySiq](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisiq&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills:
@@ -9,7 +12,7 @@
 
 ### Contact:
 
-![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  : viniciussiqueira.dev@outlook.com
+![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 
 <!---
 VinySiq/VinySiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
