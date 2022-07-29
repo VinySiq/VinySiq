@@ -1,6 +1,6 @@
 Hi, Vinicius here!
 
-I'm an engineering graduate student passionate about data science and cloud computing.
+I'm an engineering undergraduate student passionate about data science and cloud computing.
 
 
 
