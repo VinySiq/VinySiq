@@ -1,4 +1,6 @@
-Oi, eu sou o Vinicius!
+Hi, Vinicius here!
+
+I'm an engineering graduate student passionate about data science and cloud computing.
 
 
 Sou um entusiasta em ciência de dados e cloud computing.
