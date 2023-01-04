@@ -1,6 +1,6 @@
 Hi, Vinicius here!
 
-I'm an engineering undergraduate student passionate about software engineering and cloud computing.
+I'm an engineer passionate about software engineering, management and cloud computing.
 
 
 
